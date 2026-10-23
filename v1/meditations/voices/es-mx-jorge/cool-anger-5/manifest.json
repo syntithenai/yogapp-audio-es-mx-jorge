@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 120,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Si hay enojo o irritación, eres bienvenido aquí.",
+      "file": "c001.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 2,
+      "text": "No es necesario que lo hagas desaparecer.",
+      "file": "c002.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 3,
+      "text": "Sólo dale más espacio.",
+      "file": "c003.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 4,
+      "text": "Siente los pies.",
+      "file": "c004.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 5,
+      "text": "[pausa:25]",
+      "file": "c005.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 6,
+      "text": "Inhala por cuatro.",
+      "file": "c006.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 7,
+      "text": "Exhala durante seis u ocho.",
+      "file": "c007.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 8,
+      "text": "Las exhalaciones más largas enfrían el sistema.",
+      "file": "c008.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 9,
+      "text": "[pausa:33]",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "De nuevo.",
+      "file": "c010.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 11,
+      "text": "[pausa:33]",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "Nombra el calor sin alimentar la historia.",
+      "file": "c012.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 13,
+      "text": "Calor en el pecho. Mandíbula apretada. Mente rápida.",
+      "file": "c013.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 14,
+      "text": "[pausa:41]",
+      "file": "c014.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 15,
+      "text": "Suaviza las manos.",
+      "file": "c015.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 16,
+      "text": "Deja caer los hombros.",
+      "file": "c016.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 17,
+      "text": "[pausa:33]",
+      "file": "c017.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 18,
+      "text": "Podrás responder más tarde desde un lugar más claro.",
+      "file": "c018.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 19,
+      "text": "Por ahora, respira.",
+      "file": "c019.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 20,
+      "text": "[pausa:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c021.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 22,
+      "text": "Mueve los dedos.",
+      "file": "c022.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 23,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c023.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 24,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c024.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}

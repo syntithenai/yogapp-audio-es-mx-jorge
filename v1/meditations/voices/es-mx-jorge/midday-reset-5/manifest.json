@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 137,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "Que acabe aquí la mañana, aunque el día continúe.",
+      "file": "c006.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 7,
+      "text": "Deja caer los hombros.",
+      "file": "c007.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 8,
+      "text": "Afloja la mandíbula.",
+      "file": "c008.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 9,
+      "text": "[pausa:30]",
+      "file": "c009.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 10,
+      "text": "Inhala por la nariz.",
+      "file": "c010.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 11,
+      "text": "Exhale por la boca, como si empañara una ventana.",
+      "file": "c011.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 12,
+      "text": "De nuevo.",
+      "file": "c012.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 13,
+      "text": "[pausa:30]",
+      "file": "c013.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 14,
+      "text": "Imagínese dejar lo que sea que llevaba.",
+      "file": "c014.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 15,
+      "text": "Puede esperar en la mesa a tu lado.",
+      "file": "c015.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 16,
+      "text": "[pausa:37]",
+      "file": "c016.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 17,
+      "text": "Siente la columna erguida.",
+      "file": "c017.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 18,
+      "text": "Siente el vientre suave.",
+      "file": "c018.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 19,
+      "text": "[pausa:30]",
+      "file": "c019.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 20,
+      "text": "Pregunte en voz baja: ¿qué importa en la próxima hora?",
+      "file": "c020.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 21,
+      "text": "Un próximo paso claro es suficiente.",
+      "file": "c021.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 22,
+      "text": "[pausa:44]",
+      "file": "c022.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 23,
+      "text": "Respira esa simplicidad.",
+      "file": "c023.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 24,
+      "text": "Exhale esfuerzo.",
+      "file": "c024.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 25,
+      "text": "[pausa:37]",
+      "file": "c025.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 26,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c026.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 27,
+      "text": "Mueve los dedos.",
+      "file": "c027.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 28,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c028.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 29,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c029.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}

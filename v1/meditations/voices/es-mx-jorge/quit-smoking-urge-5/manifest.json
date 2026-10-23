@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 239,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Si un antojo está aquí, estás en el lugar correcto.",
+      "file": "c001.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 2,
+      "text": "No necesitas luchar contra él ni alimentarlo.",
+      "file": "c002.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 3,
+      "text": "Encuentra una posición estable, o párate con ambos pies en el suelo.",
+      "file": "c003.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 4,
+      "text": "Suaviza los ojos, o mantén una mirada suave.",
+      "file": "c004.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 5,
+      "text": "Toma una respiración lenta por la nariz.",
+      "file": "c005.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 6,
+      "text": "Y una respiración más larga por la boca.",
+      "file": "c006.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 7,
+      "text": "[pausa:12]",
+      "file": "c007.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 8,
+      "text": "Nombra lo que está sucediendo, simplemente.",
+      "file": "c008.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 9,
+      "text": "Está presente un antojo.",
+      "file": "c009.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 10,
+      "text": "Es una ola en el cuerpo y la mente.",
+      "file": "c010.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 11,
+      "text": "No es una orden.",
+      "file": "c011.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 12,
+      "text": "[pausa:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 13,
+      "text": "Nota dónde lo sientes.",
+      "file": "c013.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 14,
+      "text": "Tórax. Garganta. Manos. Inquietud.",
+      "file": "c014.ogg",
+      "durationSec": 10.776
+    },
+    {
+      "index": 15,
+      "text": "No es necesario hacerlo más grande. Solo localízalo.",
+      "file": "c015.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 16,
+      "text": "[pausa:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 17,
+      "text": "Inhala en ese lugar.",
+      "file": "c017.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 18,
+      "text": "Inhala espacio suave.",
+      "file": "c018.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 19,
+      "text": "Exhala sin actuar.",
+      "file": "c019.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 20,
+      "text": "[pausa:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 21,
+      "text": "Los impulsos surgen, alcanzan su punto máximo y descienden.",
+      "file": "c021.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 22,
+      "text": "Tú eres la orilla. La ola pasa a través.",
+      "file": "c022.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 23,
+      "text": "[pausa:18]",
+      "file": "c023.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 24,
+      "text": "Si la mente ofrece una historia sobre necesitar un cigarrillo, agradece y regresa.",
+      "file": "c024.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 25,
+      "text": "Regresa a la respiración.",
+      "file": "c025.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 26,
+      "text": "Regresa a los pies en el suelo.",
+      "file": "c026.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 27,
+      "text": "[pausa:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 28,
+      "text": "En silencio, si ayuda.",
+      "file": "c028.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 29,
+      "text": "Esto es temporal.",
+      "file": "c029.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 30,
+      "text": "Puedo superar esto sin fumar.",
+      "file": "c030.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 31,
+      "text": "[pausa:18]",
+      "file": "c031.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 32,
+      "text": "De nuevo. Inhalación suave.",
+      "file": "c032.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 33,
+      "text": "Exhalación más larga.",
+      "file": "c033.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 34,
+      "text": "[pausa:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 35,
+      "text": "Nota cualquier alivio, aunque sea pequeño.",
+      "file": "c035.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 36,
+      "text": "O nota que te mantuviste conmigo mismo.",
+      "file": "c036.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 37,
+      "text": "Ambos cuentan.",
+      "file": "c037.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 38,
+      "text": "[pausa:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 39,
+      "text": "Eres un no fumador que encuentra un viejo eco.",
+      "file": "c039.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 40,
+      "text": "El impulso puede visitar. No puede poseerte.",
+      "file": "c040.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 41,
+      "text": "[pausa:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 42,
+      "text": "Toma una respiración más fácil.",
+      "file": "c042.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 43,
+      "text": "Moviliza los dedos.",
+      "file": "c043.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 44,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c044.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 45,
+      "text": "Continúa tu día libre.",
+      "file": "c045.ogg",
+      "durationSec": 3.96
+    }
+  ]
+}

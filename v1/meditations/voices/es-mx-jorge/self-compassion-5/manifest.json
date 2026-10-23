@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 140,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "Coloque una mano sobre el corazón o apoye ambas manos en el regazo.",
+      "file": "c006.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 7,
+      "text": "Observa cómo estás, sin arreglarlo.",
+      "file": "c007.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 8,
+      "text": "[pausa:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 9,
+      "text": "Si hay lucha, reconózcala.",
+      "file": "c009.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 10,
+      "text": "Este es un momento de dificultad.",
+      "file": "c010.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 11,
+      "text": "La dificultad es parte del ser humano.",
+      "file": "c011.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 12,
+      "text": "[pausa:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "Ofrécete amabilidad como se la ofrecerías a un amigo.",
+      "file": "c013.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 14,
+      "text": "Que pueda ser amable conmigo mismo.",
+      "file": "c014.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 15,
+      "text": "Que pueda darme la compasión que necesito.",
+      "file": "c015.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 16,
+      "text": "[pausa:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 17,
+      "text": "De nuevo, lentamente.",
+      "file": "c017.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 18,
+      "text": "Que pueda ser amable conmigo mismo.",
+      "file": "c018.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 19,
+      "text": "Que pueda darme la compasión que necesito.",
+      "file": "c019.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 20,
+      "text": "[pausa:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "Respire hacia la mano que está sobre el corazón, si está allí.",
+      "file": "c021.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 22,
+      "text": "[pausa:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "No tienes que ganarte esta suavidad.",
+      "file": "c023.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 24,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c024.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 25,
+      "text": "Mueve los dedos.",
+      "file": "c025.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 26,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c026.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 27,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c027.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}

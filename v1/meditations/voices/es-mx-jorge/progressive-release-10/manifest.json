@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 343,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Esta práctica utiliza tensión y liberación suaves.",
+      "file": "c001.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 2,
+      "text": "Acuéstese si puede o siéntese con apoyo.",
+      "file": "c002.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 3,
+      "text": "Cierra los ojos si te sientes seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 4,
+      "text": "Nada que forzar. Manténgase en un rango cómodo.",
+      "file": "c004.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Y una exhalación más larga.",
+      "file": "c006.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 7,
+      "text": "[pausa:19]",
+      "file": "c007.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 8,
+      "text": "Preste atención a ambos pies.",
+      "file": "c008.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 9,
+      "text": "Doble los dedos de los pies y apriete los pies.",
+      "file": "c009.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 10,
+      "text": "Sostener.",
+      "file": "c010.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 11,
+      "text": "[pausa:19]",
+      "file": "c011.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 12,
+      "text": "Liberar.",
+      "file": "c012.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 13,
+      "text": "Siente la diferencia.",
+      "file": "c013.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 14,
+      "text": "[pausa:21]",
+      "file": "c014.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 15,
+      "text": "Apretar las pantorrillas.",
+      "file": "c015.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 16,
+      "text": "Sostener.",
+      "file": "c016.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 17,
+      "text": "[pausa:19]",
+      "file": "c017.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 18,
+      "text": "Liberar.",
+      "file": "c018.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 19,
+      "text": "Deje que las piernas se vuelvan pesadas.",
+      "file": "c019.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 20,
+      "text": "[pausa:21]",
+      "file": "c020.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 21,
+      "text": "Apretar los muslos.",
+      "file": "c021.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 22,
+      "text": "Sostener.",
+      "file": "c022.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 23,
+      "text": "[pausa:19]",
+      "file": "c023.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 24,
+      "text": "Liberar.",
+      "file": "c024.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 25,
+      "text": "Piernas suaves. Caderas suaves.",
+      "file": "c025.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 26,
+      "text": "[pausa:21]",
+      "file": "c026.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 27,
+      "text": "Tire suavemente el vientre hacia adentro.",
+      "file": "c027.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 28,
+      "text": "Sostenga sin tensión.",
+      "file": "c028.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 29,
+      "text": "[pausa:19]",
+      "file": "c029.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 30,
+      "text": "Liberar.",
+      "file": "c030.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 31,
+      "text": "Deje que el vientre se mueva libremente con la respiración.",
+      "file": "c031.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 32,
+      "text": "[pausa:21]",
+      "file": "c032.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 33,
+      "text": "Haz puños suaves. Apriete las manos y los antebrazos.",
+      "file": "c033.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 34,
+      "text": "Sostener.",
+      "file": "c034.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 35,
+      "text": "[pausa:19]",
+      "file": "c035.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 36,
+      "text": "Liberar.",
+      "file": "c036.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 37,
+      "text": "Los dedos se abren. Brazos pesados.",
+      "file": "c037.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 38,
+      "text": "[pausa:21]",
+      "file": "c038.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 39,
+      "text": "Encoge los hombros hacia las orejas.",
+      "file": "c039.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 40,
+      "text": "Sostener.",
+      "file": "c040.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 41,
+      "text": "[pausa:19]",
+      "file": "c041.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 42,
+      "text": "Déjalos.",
+      "file": "c042.ogg",
+      "durationSec": 2.928
+    },
+    {
+      "index": 43,
+      "text": "Siente el espacio en la parte superior de la espalda.",
+      "file": "c043.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 44,
+      "text": "[pausa:21]",
+      "file": "c044.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 45,
+      "text": "Aprieta suavemente la cara. Ojos, frente, mandíbula.",
+      "file": "c045.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 46,
+      "text": "Sostener.",
+      "file": "c046.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 47,
+      "text": "[pausa:19]",
+      "file": "c047.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 48,
+      "text": "Liberar.",
+      "file": "c048.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 49,
+      "text": "Frente lisa. Mandíbula suave. Lengua en reposo.",
+      "file": "c049.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 50,
+      "text": "[pausa:23]",
+      "file": "c050.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 51,
+      "text": "Ahora tensa todo el cuerpo ligeramente, como uno solo.",
+      "file": "c051.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 52,
+      "text": "Espera un momento para respirar.",
+      "file": "c052.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 53,
+      "text": "[pausa:35]",
+      "file": "c053.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 54,
+      "text": "Deja que todo se vaya.",
+      "file": "c054.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 55,
+      "text": "[pausa:8]",
+      "file": "c055.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 56,
+      "text": "Una vez más, un apretón más ligero de todo el cuerpo.",
+      "file": "c056.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 57,
+      "text": "Mantenga brevemente.",
+      "file": "c057.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 58,
+      "text": "[pausa:5]",
+      "file": "c058.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 59,
+      "text": "Y liberarse por completo.",
+      "file": "c059.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 60,
+      "text": "Más pesado ahora. Más suave ahora.",
+      "file": "c060.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 61,
+      "text": "Siente cómo el cuerpo se asienta en la superficie debajo de ti.",
+      "file": "c061.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 62,
+      "text": "[pausa:39]",
+      "file": "c062.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 63,
+      "text": "Descansa aquí.",
+      "file": "c063.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 64,
+      "text": "Respira tranquilo. Cuerpo suave.",
+      "file": "c064.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 65,
+      "text": "Si los pensamientos regresan, está bien.",
+      "file": "c065.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 66,
+      "text": "Vuelve a la sensación de liberación.",
+      "file": "c066.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 67,
+      "text": "[pausa:50]",
+      "file": "c067.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 68,
+      "text": "Mantente suave.",
+      "file": "c068.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 69,
+      "text": "[pausa:40]",
+      "file": "c069.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 70,
+      "text": "Mueve los dedos de las manos y de los pies.",
+      "file": "c070.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 71,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c071.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 72,
+      "text": "Cuando esté listo, abre los ojos.",
+      "file": "c072.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 73,
+      "text": "Lleva esta suavidad contigo.",
+      "file": "c073.ogg",
+      "durationSec": 4.536
+    }
+  ]
+}

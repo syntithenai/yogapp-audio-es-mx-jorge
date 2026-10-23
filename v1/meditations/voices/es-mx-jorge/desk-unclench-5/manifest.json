@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 129,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Manténgase sentado. Esto es para la mitad del trabajo.",
+      "file": "c001.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 2,
+      "text": "Desengancha la mirada de la pantalla por un momento.",
+      "file": "c002.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 3,
+      "text": "Mira más lejos, si puedes.",
+      "file": "c003.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 4,
+      "text": "[pausa:28]",
+      "file": "c004.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 5,
+      "text": "Gire los hombros hacia arriba, hacia atrás y hacia abajo.",
+      "file": "c005.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 6,
+      "text": "Dos veces más.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[pausa:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 8,
+      "text": "Abre y cierra las manos.",
+      "file": "c008.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 9,
+      "text": "Agítelos ligeramente.",
+      "file": "c009.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 10,
+      "text": "[pausa:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 11,
+      "text": "Suaviza la frente.",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "Afloja la mandíbula. Deja descansar la lengua.",
+      "file": "c012.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 13,
+      "text": "[pausa:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 14,
+      "text": "Inhala hacia los lados de las costillas.",
+      "file": "c014.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 15,
+      "text": "Exhala y deja que el pecho se asiente.",
+      "file": "c015.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 16,
+      "text": "[pausa:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 17,
+      "text": "Parpadea lentamente tres veces.",
+      "file": "c017.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 18,
+      "text": "[pausa:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 19,
+      "text": "Un suspiro más completo.",
+      "file": "c019.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 20,
+      "text": "Regrese cuando esté listo, un poco menos reforzado.",
+      "file": "c020.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 21,
+      "text": "[pausa:28]",
+      "file": "c021.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 22,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c022.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 23,
+      "text": "Mueve los dedos.",
+      "file": "c023.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 24,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c024.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 25,
+      "text": "Lleve la tranquilidad a la siguiente tarea.",
+      "file": "c025.ogg",
+      "durationSec": 5.52
+    }
+  ]
+}

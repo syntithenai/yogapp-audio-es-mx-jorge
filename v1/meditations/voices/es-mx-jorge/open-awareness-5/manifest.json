@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 139,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "Comience con la respiración durante algunos ciclos.",
+      "file": "c006.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 7,
+      "text": "[pausa:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 8,
+      "text": "Ahora amplía. Incluir sonidos.",
+      "file": "c008.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 9,
+      "text": "Cerca. Lejos. Cambio. Estable.",
+      "file": "c009.ogg",
+      "durationSec": 10.32
+    },
+    {
+      "index": 10,
+      "text": "[pausa:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 11,
+      "text": "Incluye sensaciones en el cuerpo.",
+      "file": "c011.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 12,
+      "text": "Puntos de contacto. Temperatura. Pulso suave.",
+      "file": "c012.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 13,
+      "text": "[pausa:28]",
+      "file": "c013.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 14,
+      "text": "Incluye el espacio de la habitación.",
+      "file": "c014.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 15,
+      "text": "Conciencia como cielo abierto.",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "[pausa:34]",
+      "file": "c016.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 17,
+      "text": "Los pensamientos pueden parecer el clima.",
+      "file": "c017.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 18,
+      "text": "No es necesario perseguirlos ni empujarlos.",
+      "file": "c018.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 19,
+      "text": "El cielo permanece.",
+      "file": "c019.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 20,
+      "text": "[pausa:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "Descansa en este campo abierto.",
+      "file": "c021.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 22,
+      "text": "[pausa:45]",
+      "file": "c022.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 23,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c023.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 24,
+      "text": "Mueve los dedos.",
+      "file": "c024.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 25,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c025.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 26,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c026.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}

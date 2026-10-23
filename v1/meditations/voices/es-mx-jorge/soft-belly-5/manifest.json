@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 152,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "Apoye una mano en la parte inferior del abdomen si lo desea.",
+      "file": "c006.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 7,
+      "text": "Observe si el vientre aguanta.",
+      "file": "c007.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 8,
+      "text": "[pausa:20]",
+      "file": "c008.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 9,
+      "text": "En la siguiente inhalación, permita que el abdomen se expanda.",
+      "file": "c009.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 10,
+      "text": "Al exhalar, déjalo caer sin apretar.",
+      "file": "c010.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 11,
+      "text": "[pausa:20]",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "De nuevo. Vientre suave hacia adentro.",
+      "file": "c012.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 13,
+      "text": "Vientre suave hacia afuera.",
+      "file": "c013.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 14,
+      "text": "[pausa:25]",
+      "file": "c014.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 15,
+      "text": "Si la mente discute, deja que el cuerpo dirija.",
+      "file": "c015.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 16,
+      "text": "Expansión. Liberar.",
+      "file": "c016.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 17,
+      "text": "[pausa:29]",
+      "file": "c017.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 18,
+      "text": "Los hombros caen.",
+      "file": "c018.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 19,
+      "text": "Mandíbula suave.",
+      "file": "c019.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 20,
+      "text": "Vientre libre.",
+      "file": "c020.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 21,
+      "text": "[pausa:25]",
+      "file": "c021.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 22,
+      "text": "Manténgase con diez respiraciones tranquilas y suaves.",
+      "file": "c022.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 23,
+      "text": "[pausa:45]",
+      "file": "c023.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 24,
+      "text": "Note cualquier facilidad que llegó.",
+      "file": "c024.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 25,
+      "text": "[pausa:20]",
+      "file": "c025.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 26,
+      "text": "Descansa aquí.",
+      "file": "c026.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 27,
+      "text": "[pausa:27]",
+      "file": "c027.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 28,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c028.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 29,
+      "text": "Mueve los dedos.",
+      "file": "c029.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 30,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c030.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 31,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c031.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}
