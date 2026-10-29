@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 136,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Esta práctica es para el final del día.",
+      "file": "c000.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 1,
+      "text": "Atenúa las luces si puedes.",
+      "file": "c001.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 2,
+      "text": "Acuéstese o recuéstese con apoyo.",
+      "file": "c002.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 3,
+      "text": "Deja que el día termine, incluso si la mente todavía enumera tareas.",
+      "file": "c003.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 4,
+      "text": "Puedes dejarlos por ahora.",
+      "file": "c004.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 5,
+      "text": "Inhale suavemente mientras cuenta hasta cuatro.",
+      "file": "c005.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 6,
+      "text": "Exhala contando hasta seis.",
+      "file": "c006.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 7,
+      "text": "De nuevo. Cuatro adentro. Seis afuera.",
+      "file": "c007.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 8,
+      "text": "Las exhalaciones más largas le indican al cuerpo que es seguro descansar.",
+      "file": "c008.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 9,
+      "text": "Busque restos de tensión en la cara.",
+      "file": "c009.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 10,
+      "text": "Suaviza la frente. Suaviza la mandíbula.",
+      "file": "c010.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 11,
+      "text": "Deja caer los hombros lejos de las orejas.",
+      "file": "c011.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 12,
+      "text": "Imagínese el día asentándose como polvo después de una brisa.",
+      "file": "c012.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 13,
+      "text": "Lo que pasó, pasó.",
+      "file": "c013.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 14,
+      "text": "Lo que quede puede esperar hasta la mañana.",
+      "file": "c014.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 15,
+      "text": "Siente el colchón o el suelo sosteniéndote.",
+      "file": "c015.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 16,
+      "text": "Respira más tranquilo. Cuerpo más pesado.",
+      "file": "c016.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 17,
+      "text": "Si llega el sueño, déjalo.",
+      "file": "c017.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 18,
+      "text": "Si no, descansa de todos modos en esta suavidad.",
+      "file": "c018.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 19,
+      "text": "Tres respiraciones lentas más.",
+      "file": "c019.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 20,
+      "text": "En. Afuera.",
+      "file": "c020.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 21,
+      "text": "En. Afuera.",
+      "file": "c021.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 22,
+      "text": "En. Afuera.",
+      "file": "c022.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 23,
+      "text": "Buenas noches al día. Paz a la noche.",
+      "file": "c023.ogg",
+      "durationSec": 6.768
+    }
+  ]
+}

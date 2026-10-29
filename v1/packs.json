@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "es-mx-jorge.zip", "bytes": 62627681, "sha256": "8fb46141814da950934e54167142dd936640b4067a77e025eb3469ac9169b700"}
+  ]
+}

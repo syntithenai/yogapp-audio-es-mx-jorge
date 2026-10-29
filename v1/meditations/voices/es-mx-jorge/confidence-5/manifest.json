@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 150,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 1,
+      "text": "Busque un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 2,
+      "text": "Deja descansar las manos.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Suaviza los ojos o ciérralos.",
+      "file": "c003.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Y una exhalación más larga.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "Sienta los isquiones o los pies.",
+      "file": "c006.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 7,
+      "text": "Una base estable debajo de ti.",
+      "file": "c007.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 8,
+      "text": "[pausa:22]",
+      "file": "c008.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 9,
+      "text": "Alarga la columna sin endurecerla.",
+      "file": "c009.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 10,
+      "text": "Cara suave. Vientre blando. Centro fuerte.",
+      "file": "c010.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 11,
+      "text": "[pausa:22]",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "Pruebe estas frases en silencio o simplemente escuche.",
+      "file": "c012.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 13,
+      "text": "Puedo cumplir con lo que me toca cumplir.",
+      "file": "c013.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 14,
+      "text": "[pausa:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 15,
+      "text": "No necesito apresurar mi devenir.",
+      "file": "c015.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 16,
+      "text": "[pausa:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 17,
+      "text": "Confío en mi próximo paso honesto.",
+      "file": "c017.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 18,
+      "text": "[pausa:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 19,
+      "text": "Respira confianza como calidez en el pecho, no como armadura.",
+      "file": "c019.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 20,
+      "text": "[pausa:28]",
+      "file": "c020.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 21,
+      "text": "Imagínese enfrentando un desafío común y corriente con firmeza.",
+      "file": "c021.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 22,
+      "text": "[pausa:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 23,
+      "text": "Vuelve a la respiración.",
+      "file": "c023.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 24,
+      "text": "Estable. Suficiente.",
+      "file": "c024.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 25,
+      "text": "[pausa:28]",
+      "file": "c025.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 26,
+      "text": "Respira tranquilamente una vez más.",
+      "file": "c026.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 27,
+      "text": "Mueve los dedos.",
+      "file": "c027.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 28,
+      "text": "Cuando estés listo, abre los ojos.",
+      "file": "c028.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 29,
+      "text": "Lleva un poco de esto contigo.",
+      "file": "c029.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}

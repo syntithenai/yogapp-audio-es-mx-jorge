@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "es-mx-jorge",
+  "edgeVoice": "es-MX-JorgeNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 157,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Escanearemos suavemente el cuerpo.",
+      "file": "c000.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 1,
+      "text": "Acuéstate o siéntate con facilidad.",
+      "file": "c001.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 2,
+      "text": "Cierra los ojos si te sientes seguro.",
+      "file": "c002.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 3,
+      "text": "Comience en la coronilla de la cabeza.",
+      "file": "c003.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 4,
+      "text": "Note cualquier sensación allí. Calor. Frescura. Nada en absoluto.",
+      "file": "c004.ogg",
+      "durationSec": 13.032
+    },
+    {
+      "index": 5,
+      "text": "No es necesario cambiarlo. Sólo fíjate.",
+      "file": "c005.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 6,
+      "text": "Muévete suavemente hacia la frente y los ojos.",
+      "file": "c006.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 7,
+      "text": "Deje que los pequeños músculos alrededor de los ojos se ablanden.",
+      "file": "c007.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 8,
+      "text": "Siente la mandíbula. Afloja si puedes.",
+      "file": "c008.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 9,
+      "text": "Lengua descansando ligeramente.",
+      "file": "c009.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 10,
+      "text": "Espalda. ¿Están levantados? Déjalos caer un poco.",
+      "file": "c010.ogg",
+      "durationSec": 10.152
+    },
+    {
+      "index": 11,
+      "text": "Brazos pesados. Manos abiertas o suaves.",
+      "file": "c011.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 12,
+      "text": "El pecho sube y baja con la respiración.",
+      "file": "c012.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 13,
+      "text": "Vientre suave. Sin forzar.",
+      "file": "c013.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 14,
+      "text": "Caderas y pelvis en reposo.",
+      "file": "c014.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 15,
+      "text": "Muslos. Rodillas. Piernas inferiores.",
+      "file": "c015.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 16,
+      "text": "Pies. Suelas tocando el suelo o la colchoneta.",
+      "file": "c016.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 17,
+      "text": "Ahora sienta todo el cuerpo como un campo de conciencia.",
+      "file": "c017.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 18,
+      "text": "Respiración moviéndose a través de él.",
+      "file": "c018.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 19,
+      "text": "Si aparece un punto tenso, envía una amable exhalación allí.",
+      "file": "c019.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 20,
+      "text": "Quédese tres respiraciones tranquilas.",
+      "file": "c020.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 21,
+      "text": "Cuando esté listo, mueva los dedos de las manos y los pies.",
+      "file": "c021.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 22,
+      "text": "Abre los ojos. Regrese suavemente.",
+      "file": "c022.ogg",
+      "durationSec": 7.08
+    }
+  ]
+}
